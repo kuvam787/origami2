@@ -1,0 +1,23 @@
+* {
+    background-color: crimson;
+}
+h1{
+    font-family: Courier;
+    font-size: larger;
+}
+
+.info *{
+    border: solid;
+    background-color: cyan;
+}
+
+.info{
+
+font-family:  "Calibri";
+}
+
+.ghost{
+    display: flex;
+     justify-content: space-evenly;
+}
+    
